@@ -1,0 +1,17 @@
+{
+ "name": "tinder-clone-backend",
+ "version": "1.0.0",
+ "description": "Tinder Clone",
+ "main": "server.js",
+ "type": "module",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "node server.js"
+ },
+ "author": "Rushikesh Dehankar",
+ "license": "ISC",
+ "dependencies": {
+  "express": "^4.17.3",
+  "mongoose": "^6.3.0"
+ }
+}
